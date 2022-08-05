@@ -1,4 +1,4 @@
-# UPC-ML-Course-Project
+# UPC-MachineLearning-Course-Project
 Course Project for Machine Learning Course 2022 at the Politechnical University of Catalunya (UPC). Authors are Alex Martorell and Louis Van Langendonck. A details report can be found in the repository under the name of Machine_Learning_Final_Report.pdf. A summerizing Scientific Poster can be found in the repository under the name of Machine_Learning_Poster.pdf
 
 ## Project Statement
